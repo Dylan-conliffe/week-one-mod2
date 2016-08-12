@@ -1,0 +1,72 @@
+/* ADD YOUR STYLES HERE */
+.box-space{ padding: 25px;
+    
+}
+
+/* #7*/    
+.boxes  { height: 200px;
+
+    
+}
+
+.boxes img { float: left;
+            padding: 20px 20px;
+}
+.boxes p { float: left; 
+margin-top: 20px;
+    
+}
+.boxes ol { margin-left: 70%;
+    text-align: left;
+    padding-top: 20px;
+}
+.vert{ padding-top: 5%;
+    
+}
+/* #8 */
+.container  { padding: 10%;
+
+             
+}
+.inner-container    
+
+
+
+
+/* #9*/
+.vert-list{ 
+    float:left; 
+    list-style: none;
+    
+}
+    
+
+.text-link{ 
+    text-decoration: none;
+    
+}
+.button-wun{ background-color: indianred;
+border-radius: 10px;
+    color: white;
+    height: 75px;
+    width:  200px;
+    }
+.button-two{
+    border-radius: 5px;
+    background-color: indianred;
+    color: white;
+    height: 25px;
+    width: 175px;
+    
+}
+.button-tree{     
+    border-radius: 5px;
+    background-color: indianred; 
+    color: white;
+    width: 50px;
+}
+
+        
+
+
+
